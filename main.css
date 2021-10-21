@@ -1,0 +1,31 @@
+/* rule-set #1: All p tags within the main class will have red font */ 
+.main p{ 
+    color: red;
+} 
+/* rule-set #2 */ 
+#number-one{ 
+    color:royalblue;
+} 
+ 
+/* 1 */ 
+h3{ 
+    text-align: center;
+} 
+ 
+/* 2 */ 
+p{ 
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+} 
+/*this sets the background color of the entire body*/ 
+body{ 
+    background-color:salmon;
+} 
+ 
+h1{ 
+    text-align: center;
+} 
+ 
+h1{
+    height: 150px; 
+    width: 50%; 
+}
